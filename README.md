@@ -91,8 +91,8 @@ Now let's know about the code for README.md file.  <br>
 
 ### Task list
 - [x] Task one  
-[x] Task two  
-[] Task three 
+  [x] Task two  
+  [ ] Task three 
   <br>
 
 ### Autometic link
